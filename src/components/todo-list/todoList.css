@@ -1,0 +1,7 @@
+.todo_list_container {
+   width: 75vw;
+   height: 70vh;
+   margin: 5vh auto; 
+   display: flex;
+   flex-direction: row;
+}
